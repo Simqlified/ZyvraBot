@@ -1,0 +1,2 @@
+# ZyvraBot
+Private discord bot
